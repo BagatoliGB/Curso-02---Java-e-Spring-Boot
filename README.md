@@ -4,8 +4,17 @@ Requisitos:
 
 
 Spring Boot Tool;
-Spring Initializr;
 MAVEN;
 MySql DataBase;
 Insomnia;
+Spring Initializr;
+  {
+    MY SQL DRIVER
+    FLYWAY MIGRATION
+    VALIDATION
+    SPRING DATA JPA
+    LOOMBOK
+    SPROMG BOOT DEVTOOLS
+    SPIRNG BOOT STARTER WEB
+  }
 
